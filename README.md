@@ -5,7 +5,7 @@
 - 📫 How to reach me materliu[at]gmail.com
 - 👇 My Skills Below
   
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,androidstudio,angular,apple,docker,electron,git,java,php)](https://materliu.github.io)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,androidstudio,angular,apple,docker,electron,git,java,php,postgres,py,react,ts,vim)](https://materliu.github.io)
 
 <!---
 materliu/materliu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
